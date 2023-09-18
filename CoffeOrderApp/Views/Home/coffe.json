@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "image": "coffe1",
+    "coffeeName": "Latte",
+    "coffeePrice": 503,
+    "rate": 4,
+    "numberOfReviews": 28,
+    "description": "A delicious coffee with steamed milk and espresso.",
+    "addExtra": [
+      {
+        "name": "Caramel Syrup",
+        "price": 79
+      },
+      {
+        "name": "Vanilla Syrup",
+        "price": 69
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "coffe5",
+    "coffeeName": "Mocha",
+    "coffeePrice": 407,
+    "rate": 4,
+    "numberOfReviews": 45,
+    "description": "Espresso with chocolate and steamed milk.",
+    "addExtra": [
+      {
+        "name": "Whipped Cream",
+        "price": 32
+      },
+      {
+        "name": "Caramel Syrup",
+        "price": 55
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "coffe3",
+    "coffeeName": "Flat White",
+    "coffeePrice": 346,
+    "rate": 4,
+    "numberOfReviews": 32,
+    "description": "Espresso with equal parts of steamed milk and foam.",
+    "addExtra": [
+      {
+        "name": "Soy Milk",
+        "price": 99
+      },
+      {
+        "name": "Chocolate Syrup",
+        "price": 70
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "coffe1",
+    "coffeeName": "Cappuccino",
+    "coffeePrice": 376,
+    "rate": 3,
+    "numberOfReviews": 12,
+    "description": "A classic blend of espresso, steamed milk, and foam.",
+    "addExtra": [
+      {
+        "name": "Almond Milk",
+        "price": 35
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "coffe5",
+    "coffeeName": "Espresso",
+    "coffeePrice": 536,
+    "rate": 4,
+    "numberOfReviews": 17,
+    "description": "A strong shot of espresso.",
+    "addExtra": [
+      {
+        "name": "Caramel Syrup",
+        "price": 79
+      },
+      {
+        "name": "Vanilla Syrup",
+        "price": 69
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "coffe1",
+    "coffeeName": "Macchiato",
+    "coffeePrice": 427,
+    "rate": 3,
+    "numberOfReviews": 34,
+    "description": "Espresso with a dollop of foam.",
+    "addExtra": []
+  },
+  {
+    "id": 7,
+    "image": "coffe5",
+    "coffeeName": "Americano",
+    "coffeePrice": 272,
+    "rate": 4,
+    "numberOfReviews": 39,
+    "description": "Espresso with hot water.",
+    "addExtra": [
+      {
+        "name": "Vanilla Syrup",
+        "price": 87
+      },
+      {
+        "name": "Hazelnut Syrup",
+        "price": 56
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "coffe3",
+    "coffeeName": "Caramel Macchiato",
+    "coffeePrice": 399,
+    "rate": 4,
+    "numberOfReviews": 36,
+    "description": "Espresso with caramel and steamed milk.",
+    "addExtra": [
+      {
+        "name": "Soy Milk",
+        "price": 46
+      },
+      {
+        "name": "Almond Milk",
+        "price": 55
+      },
+      {
+        "name": "Whipped Cream",
+        "price": 83
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "coffe1",
+    "coffeeName": "Iced Coffee",
+    "coffeePrice": 516,
+    "rate": 4,
+    "numberOfReviews": 28,
+    "description": "Chilled coffee served over ice.",
+    "addExtra": [
+      {
+        "name": "Caramel Syrup",
+        "price": 79
+      },
+      {
+        "name": "Vanilla Syrup",
+        "price": 69
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "coffe5",
+    "coffeeName": "Cortado",
+    "coffeePrice": 411,
+    "rate": 4,
+    "numberOfReviews": 27,
+    "description": "Espresso with equal parts of steamed milk and milk foam.",
+    "addExtra": [
+      {
+        "name": "Caramel Syrup",
+        "price": 79
+      },
+      {
+        "name": "Vanilla Syrup",
+        "price": 69
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "coffe1",
+    "coffeeName": "Affogato",
+    "coffeePrice": 239,
+    "rate": 4,
+    "numberOfReviews": 7,
+    "description": "Espresso poured over a scoop of ice cream.",
+    "addExtra": [
+      {
+        "name": "Caramel Syrup",
+        "price": 73
+      },
+      {
+        "name": "Whipped Cream",
+        "price": 55
+      },
+      {
+        "name": "Soy Milk",
+        "price": 78
+      }
+    ]
+  }
+]
